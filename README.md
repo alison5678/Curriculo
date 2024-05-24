@@ -37,8 +37,8 @@
     <div class="container">
         <header>
             <h1>Currículo</h1>
-            <p>Nome: João da Silva</p>
-            <p>Email: joao.silva@example.com</p>
+            <p>Nome: Alison</p>
+            <p>Email: Alison@example.com</p>
             <p>Telefone: (11) 98765-4321</p>
         </header>
         <hr>
